@@ -2,6 +2,7 @@
 📎 *Proyecto Full Stack con Node.js, Express y JSON*  
 🔗 [Mi Portfolio](https://nerosjuanma.github.io/JuanManuel-MudarraPozo.github.io/)
 
+![Vista previa del proyecto](/frontend/assets/preview.png) 
 ---
 
 ## 🌟 Introducción
